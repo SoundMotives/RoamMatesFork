@@ -1,5 +1,5 @@
 # Roam Mates 
-This project is built using Python / Flask / PostgreSQL in the backend, and Javascript / React in the front end. 
+This project is built using Python / Flask / PostgreSQL in the backend, and Javascript / React in the frontend. 
 
 The frontend used a starter template from the Acebook project, part of the Makers Bootcamp.
 
