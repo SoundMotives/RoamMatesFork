@@ -1,6 +1,9 @@
-# Acebook
+# Roam Mates 
+This project is built using Python / Flask / PostgreSQL in the backend, and Javascript / React in the front end. 
 
-In this project, you are tasked with working on an existing application. A significant part of the challenge will be to familiarise yourself with the codebase you've inherited, as you work to **improve and extend** it.
+The frontend used a starter template from the Acebook project, part of the Makers Bootcamp.
+
+Below is the Acebook documentation: 
 
 ## Documentation
 
